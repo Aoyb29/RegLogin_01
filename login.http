@@ -1,0 +1,8 @@
+###登陆测试
+GET http://localhost:1118/login/admin/000000
+Accept: application/json
+Content-Type:application/json
+###
+GET http://localhost:1118/login/ayb/123123
+Accept: application/json
+Content-Type:application/json

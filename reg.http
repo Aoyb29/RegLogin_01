@@ -1,0 +1,11 @@
+###注册测试
+POST http://localhost:1118/reg
+Content-Type: application/x-www-form-urlencoded
+
+name=zxc&psw=666666&sex=女&age=31&tel=zxc666
+###
+POST http://localhost:1118/reg
+Content-Type: application/x-www-form-urlencoded
+
+name=qwe&psw=111111&sex=男&age=20&tel=qwe000
+
